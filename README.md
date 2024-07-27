@@ -1,1 +1,2 @@
 # FavoriteRecipesWebsite
+Codecademy side project
